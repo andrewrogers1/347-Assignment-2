@@ -1,2 +1,2 @@
-# 347-Assignment-2
+# Assignment2-347
 project 1 347
